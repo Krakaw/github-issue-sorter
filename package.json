@@ -1,5 +1,5 @@
 {
-  "name": "github-issue-sorted",
+  "name": "github-issue-sorter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
